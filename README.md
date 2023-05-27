@@ -3,7 +3,7 @@
  <h2 align="center">MrSPeeDy0 Doors-Script</h2>
  <p align="center">I upload my scripts here!</p>
 </p>
-  <p align="center">
+  <p align="top">
     <a href="https://www.roblox.com/">
      <img width="45px" 
       <img alt="Roblox" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
