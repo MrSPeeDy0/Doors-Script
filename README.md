@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://www.roblox.com/">
-     <img width="50px"
+     <img width="50px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" align="center" alt="MrSPeeDy0 Doors-Script" />
       <img alt="Roblox" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
     </a>
     <a href="https://www.lua.org/">
