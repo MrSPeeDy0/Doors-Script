@@ -5,6 +5,6 @@
 </p>
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
     </a>
   </p>
