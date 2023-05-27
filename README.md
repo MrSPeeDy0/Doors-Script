@@ -4,7 +4,7 @@
  <p align="center">I upload my scripts here!</p>
 </p>
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <a href="">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
     </a>
   </p>
