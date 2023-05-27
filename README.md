@@ -5,8 +5,10 @@
 </p>
   <p align="center">
     <a href="">
+     <img width="100px"
       <img alt="Roblox" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
     </a>
     <a href="">
+     <img width="100px"
       <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
     </a>
