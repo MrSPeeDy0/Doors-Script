@@ -5,6 +5,6 @@
 </p>
     </a>
     <a href="">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+      <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-lua.png?raw=true" />
     </a>
   </p>
