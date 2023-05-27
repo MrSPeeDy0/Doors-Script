@@ -3,14 +3,10 @@
  <h2 align="center">MrSPeeDy0 Doors-Script</h2>
  <p align="center">I upload my scripts here!</p>
 </p>
+  <p align="center">
+    <a href="">
+      <img alt="Roblox" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
     </a>
     <a href="">
-      <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
+      <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
     </a>
-  </p>
-</a>
-    <a href="">
-      <img width="50px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
-    </a>
-  </p>
-</a>
