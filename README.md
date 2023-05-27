@@ -4,11 +4,11 @@
  <p align="center">I upload my scripts here!</p>
 </p>
   <p align="center">
-    <a href="">
+    <a href="https://www.roblox.com/">
      <img width="50px"
       <img alt="Roblox" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-roblox.png?raw=true" />
     </a>
-    <a href="">
+    <a href="https://www.lua.org/">
      <img width="100px"
       <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
     </a>
