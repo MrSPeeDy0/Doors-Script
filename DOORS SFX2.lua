@@ -74,5 +74,5 @@ task.wait(1.0)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
     sound:Play()
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrSPeeDy0/Doors-Script/main/DOORS%20SFX2.lua"))()
 return    
