@@ -1,7 +1,4 @@
 task.wait(9.5)
-
-print('lol')
-
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
