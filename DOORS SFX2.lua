@@ -1,30 +1,78 @@
+print('lol')
+
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
 task.wait(1.0) 
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
     sound:Play()
-
 task.wait(1.0) 
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
     sound:Play()
-
 task.wait(1.0) 
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
     sound:Play()
-
 task.wait(1.0) 
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
     sound:Play()
-
 task.wait(1.0) 
     local sound = Instance.new("Sound", game.Workspace)
     sound.SoundId = "rbxassetid://5602666105"
     sound.Volume = 1000000000000000000000000
-    sound:Play()    
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+task.wait(1.0) 
+    local sound = Instance.new("Sound", game.Workspace)
+    sound.SoundId = "rbxassetid://5602666105"
+    sound.Volume = 1000000000000000000000000
+    sound:Play()
+loadstring(game:HttpGet(""))()
 return    
