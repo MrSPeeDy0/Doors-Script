@@ -103,6 +103,6 @@ workspace.CurrentRooms[game.Players.LocalPlayer:GetAttribute("CurrentRoom")])
 
 task.wait(1)
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrSPeeDy0/Doors-Script/main/Infinite%20Screech.lua"))()
 
 
